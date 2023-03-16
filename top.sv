@@ -1,4 +1,4 @@
-`include "intf.sv"
+`include "interface.sv"
 `include "package.sv"
 module tb_top;
   import uvm_pkg::*;
